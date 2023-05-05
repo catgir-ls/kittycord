@@ -1,0 +1,7 @@
+name: KittyCord
+version: 1.0.0
+main: ls.catgir.kittycord.KittyCord
+description: Integration for Minecraft messages to be sent to a discord webhook
+author: af280cf94190a54043e947948a0031ce7ed71dc <o@raci.sm> 
+website: https://catgir.ls/
+api-version: 1.19
